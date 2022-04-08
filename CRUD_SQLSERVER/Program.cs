@@ -19,7 +19,7 @@
 	        Note VARCHAR(MAX)
         )
         -------------------------------------
-  Note: I have done error handling in this program
+  Note: I have not done error handling in this program
 */
 
 using System;
